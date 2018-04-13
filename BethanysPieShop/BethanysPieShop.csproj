@@ -13,7 +13,6 @@
         <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.0.2" />
     </ItemGroup>
     <ItemGroup>
-        <Folder Include="ViewModels\" />
         <Folder Include="wwwroot\images\" />
         <Folder Include="wwwroot\css\" />
     </ItemGroup>

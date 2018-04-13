@@ -1,6 +1,5 @@
-﻿using System;
+﻿using BethanysPieShop.Models;
 using System.Collections.Generic;
-using BethanysPieShop.Models;
 
 namespace BethanysPieShop.ViewModels
 {

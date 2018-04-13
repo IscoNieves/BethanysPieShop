@@ -1,8 +1,8 @@
-﻿using System;
-using BethanysPieShop.Models;
+﻿using BethanysPieShop.Models;
 using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.DependencyInjection;
+using System;
 
 namespace BethanysPieShop
 {

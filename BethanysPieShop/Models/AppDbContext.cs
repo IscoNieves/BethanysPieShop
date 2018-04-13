@@ -1,5 +1,4 @@
-﻿using System;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 
 namespace BethanysPieShop.Models
 {
@@ -10,10 +9,8 @@ namespace BethanysPieShop.Models
 
         }
 
-        public DbSet<Pie> Pies
-        {
-            get;
-            set;
-        }
+        public DbSet<Pie> Pies { get; set; }
+
+        public DbSet<Feedback> Feedbacks { get; set; }
     }
 }
